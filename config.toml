@@ -1,4 +1,4 @@
-baseURL = "https://viswag.github.io/jamsite/"
+baseURL = "https://boring-albattani-6d62d1.netlify.app"
 languageCode = "en-us"
 title = "JAMSite"
 theme = "tale"
